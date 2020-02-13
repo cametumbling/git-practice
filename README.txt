@@ -1,2 +1,3 @@
 Hello Git and GitHub
-And hello to you, person on web
+And hello to you, person on web!
+And hello from my text editor. :)
